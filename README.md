@@ -1,5 +1,19 @@
 # ControlAcceso
-Programa de alarma para el control de acceso , puede ser usada en puertas o en cualquier  sistema que desee implementarlo
+Programa de alarma para el control de acceso , puede ser usada en puertas o en cualquier  sistema que desee implementarlo.
+El material a utilizar son :
+Arduino uno
+Protoboard
+Led Rojo
+Led verde
+Resistencia de 330 
+Teclado matricial 4x4 
+Potenciometro de 10k
+este sera Armado de la siguiente manera:
+-----------------------------------------------------------------
+
+<img src="https://scontent.fntr4-1.fna.fbcdn.net/v/t1.0-9/42648311_486931631795998_7189348265035300864_n.jpg?_nc_cat=109&oh=237143f53c0b93589353c41af393c872&oe=5C233E57" />
+
+----------------------------------------------------------------
 
 #include <Password.h> //Incluim os la libreria Password
 #include <Keypad.h> //Incluimos la libreria Keypad
